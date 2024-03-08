@@ -14,10 +14,14 @@ Aqui você colocará mais coisas sobre você - EDITAR
 ◆
 <br>
 ◆
+<br>
+◆
+<br>
+◆
 
 <div>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=VitorMendesDias&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMendesDias&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VitorMendesDias&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMendesDias&layout=compact&langs_count=16&theme=dracula"/>
 </div>
  
 ---
