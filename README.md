@@ -1,6 +1,6 @@
 <img src="gif.gif" width= "450px" align= "right">
 
-## Boa Noite, Seja bem Vindo ao meu GitHub!
+### Boa Noite, Seja bem Vindo ao meu GitHub!
 Aqui você colocará mais coisas sobre você - EDITAR
 
 ◆
@@ -16,8 +16,8 @@ Aqui você colocará mais coisas sobre você - EDITAR
 ◆
 
 <div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VitorMendesDias&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMendesDias&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VitorMendesDias&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMendesDias&layout=compact&langs_count=16&theme=dracula"/>
 </div>
  
 ---
