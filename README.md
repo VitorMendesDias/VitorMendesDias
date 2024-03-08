@@ -4,8 +4,8 @@
 Aki Você colocara mais coisas sibre você EDITAR
 
 <div>
-  <img src="">
-  <img src="">
-  <img src="">
+  <img src="HTML5.png" width= "50px">
+  <img src="CSS3.png" width= "50px">
+  <img src="JavaScript.png" width= "35px">
   <img src="">
 </div>
