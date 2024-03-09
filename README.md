@@ -36,7 +36,6 @@ Aqui você colocará mais coisas sobre você - EDITAR
 ![snake gif](https://github.com/VitorMendesDias/VitorMendesDias/blob/output/github-contribution-grid-snake.gif)
 
 <br>
-<br>
 
 ### Um pouco mais sobre mim.
 
