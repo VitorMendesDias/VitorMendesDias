@@ -38,3 +38,17 @@ Aqui você colocará mais coisas sobre você - EDITAR
 </div>
 
 ![snake gif](https://github.com/VitorMendesDias/VitorMendesDias/blob/output/github-contribution-grid-snake.gif)
+
+<br>
+<br>
+
+### Um pouco mais sobre mim.
+
+<br>
+
+<div>
+  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <img alt="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
+  <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+</div>
