@@ -51,3 +51,7 @@ Aqui você colocará mais coisas sobre você - EDITAR
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sr.potaato/?igsh=NTc4MTIwNjQ2YQ%3D%3D)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://br.pinterest.com/SrPoteitou/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31gzsyhl6y5zvrvhxowqwsjuypgy?si=10ffc5829b6e4853)
+
+---
+
+### Por fim mais um grafico
