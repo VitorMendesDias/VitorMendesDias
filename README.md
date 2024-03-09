@@ -36,3 +36,5 @@ Aqui você colocará mais coisas sobre você - EDITAR
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="112">
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="109">
 </div>
+
+![snake gif](https://github.com/VitorMendesDias/VitorMendesDias/blob/output/github-contribution-grid-snake.gif)
