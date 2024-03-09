@@ -1,6 +1,6 @@
 ---
 
-<img src="gif.gif" width= "450px" align= "right">
+<img src="gif.gif" width= "400px" align= "right">
 
 ### Boa Noite, Seja bem Vindo ao meu GitHub!
 Aqui você colocará mais coisas sobre você - EDITAR
