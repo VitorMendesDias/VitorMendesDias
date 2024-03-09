@@ -39,6 +39,10 @@ Aqui você colocará mais coisas sobre você - EDITAR
 
 ---
 
+### Adiconar um grafico
+
+---
+
 ### Um pouco mais sobre mim.
 
 <br>
