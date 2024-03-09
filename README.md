@@ -16,8 +16,6 @@ Aqui você colocará mais coisas sobre você - EDITAR
 ◆ Tópico 06
 <br>
 ◆ Tópico 07
-<br>
-◆ Tópico 08
 
 <div>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=VitorMendesDias&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
