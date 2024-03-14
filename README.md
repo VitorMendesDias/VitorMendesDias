@@ -55,7 +55,3 @@ Aqui você colocará mais coisas sobre você - EDITAR
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31gzsyhl6y5zvrvhxowqwsjuypgy?si=10ffc5829b6e4853)
 
 ---
-
-### Por fim mais um grafico
-
----
